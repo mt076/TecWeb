@@ -6,10 +6,7 @@ const conexao = mysql.createConnection({
     user:'root',
     password:'',
     database:'cursodb'
-
-    
 })
-
 
 
 /*Aplicamos o export para utilizar o objeto em outros aplicativos*/
