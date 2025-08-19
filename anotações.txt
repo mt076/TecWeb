@@ -1,0 +1,8 @@
+httpstatus.com.br
+
+express -> total liberdade
+fastify -> pouco opinativo
+koa -> total liberdade
+hapi
+nestjs -> altamente opinativo
+restfy -> 
